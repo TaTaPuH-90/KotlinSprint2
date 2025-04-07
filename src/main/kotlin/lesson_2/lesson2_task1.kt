@@ -11,4 +11,4 @@ fun main(){
     val averageScore = (firstStudent+secondStudent+thirdStudent+fourthStudent) / QUANTITY_STUDENT.toFloat()
 
     println(averageScore)
-}
+ }
